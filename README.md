@@ -24,3 +24,16 @@ Al mismo tiempo que se genera la tabla se genera el arbol
 **Desglose de la pila**
 
 ![image](https://github.com/user-attachments/assets/360b384c-232e-4ea5-b35a-488fd98b5eaf)
+
+
+Por ultimo cabe mencionar que tambien funciona con strings, a continuacion les muestro un ejemplo
+![image](https://github.com/user-attachments/assets/7519cf5f-7525-4d3a-89c7-3d2f9a9ad21f)![image](https://github.com/user-attachments/assets/2258ca4a-89d1-4581-ac2c-ab5a9da90c8d)
+![image](https://github.com/user-attachments/assets/243dec8c-0dc5-4ab8-ac74-6c99ab9177c7)
+un poco de zoom en el arbol generado
+
+![image](https://github.com/user-attachments/assets/ae09b539-8af5-43cf-9296-3fe8506e1d25)
+
+
+
+
+
