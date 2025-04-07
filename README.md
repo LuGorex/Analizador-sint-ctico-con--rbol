@@ -6,6 +6,7 @@ Además, en esta parte del proyecto se le agrego el árbol que genera la gramát
 A continuación, se mostrará un poco del proyecto hasta hora
 
 **Interfaz Gráfica**
+
 Al ejecutar nuestro archivo main.py lo primero que generara sera la interfaz grafica que se ha hecho con tkinter
 ![image](https://github.com/user-attachments/assets/f1e13bb8-a151-4e0c-85b8-915d34703a08)
 
